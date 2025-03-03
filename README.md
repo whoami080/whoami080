@@ -1,16 +1,40 @@
-## Hi there 👋
+```markdown
+# 👾 ¡Hola! Soy WHOAMI
 
-<!--
-**whoami080/whoami080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por el hacking donde cada desafío es una oportunidad para aprender
 
-Here are some ideas to get you started:
+## 🔍 Áreas de Especialización
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Hacking**: Realizo pruebas de penetración y análisis de vulnerabilidades en diversos sistemas.
+- **OSINT (Open Source Intelligence)**: Utilizo técnicas de inteligencia de fuentes abiertas para recopilar información valiosa sobre objetivos.
+- **Desarrollo**: Desarrollo herramientas y scripts para automatizar tareas relacionadas con la seguridad y mejorar la eficiencia en mis proyectos.
+
+## 🛠️ Herramientas y Tecnologías
+
+- **Lenguajes de Programación**:
+  - Python
+  - JavaScript
+  - Bash
+
+- **Herramientas de Seguridad**:
+  - Metasploit
+  - Nmap
+  - Wireshark
+  - Burp Suite
+
+- **Sistemas Operativos**:
+  - Kali Linux
+  - Parrot OS
+  - Arch Linux
+
+## 🌱 Actualmente Aprendiendo
+
+En mi búsqueda por mejorar mis habilidades en hacking, me estoy enfocando en varias áreas clave. Estoy profundizando en técnicas de explotación avanzadas, como inyección SQL y cross-site scripting (XSS), así como en la seguridad de sitios web para identificar y mitigar riesgos
+
+## 📫 Conéctate conmigo
+
+- Telegram: [Whoami](t.me/whoami080)
+- Correo: [Whoami](whoamiblackhat080@gmail.com)
+
+¡Gracias por visitar mi perfil! Si tienes preguntas, quieres colaborar en proyectos o simplemente charlar sobre hacking, ¡no dudes en contactarme!
+```
